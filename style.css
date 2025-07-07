@@ -1,0 +1,21 @@
+#canvas
+{
+    background-color: #30c0df;
+    border: 2px solid black;
+    display: block;
+    margin: auto;
+    padding: auto;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    width: 394px;
+    height: 600;
+    background-color: white;
+    box-shadow: -5px 0 44px rgb(0 0 0 / 89%);
+    background-color: lightgray;
+    border: 5px solid;
+    /* border-color: #000000 #000000 #666 #ccc; */
+    border-color: #666 #666 #666 #666;
+    }
+    
