@@ -33,17 +33,11 @@ It’s a fun browser-based game where you control a bird and try to avoid pipes.
 ```
 my-flappy-bird/
 ├── index.html
-
 ├── style.css
-
 ├── game.js
-
 ├── img/
-
 │   └── (images: bird, background, pipes, etc.)
-
 └── sfx/
-
     └── (sound effects: flap, hit, score, etc.)
 ```
 
